@@ -7,7 +7,7 @@ Update of my own custom roms
 | Cosmic  | Kernel (YAMK)     |
 | Lire    | VM                |
 
-## Evolution X - [09/04/2024]
+## Evolution X - [09/05/2024]
 > - Sync with source
 > 	- Bump Version to 9.4
 > 	- September security patch
