@@ -1,11 +1,16 @@
 # android-OTA
-Update of my own custom roms
+Update of my own miatoll custom roms
 
 | Credits | For               |
 | ------- | ----------------- |
-| Ihsan   | Trees and helping |
+| Ihsan   | Trees             |
 | Cosmic  | Kernel (YAMK)     |
 | Lire    | VM                |
+
+## Evolution X - [09/07/2024] [HOTFIX]
+Changelogs :
+> - Sync with source
+> - Fix miui camera crash (Ihsan)
 
 ## Evolution X - [09/05/2024]
 > - Sync with source
