@@ -8,7 +8,6 @@ Update of my own miatoll custom roms
 | Lire    | VM                |
 
 ## Evolution X - [09/07/2024] [HOTFIX]
-Changelogs :
 > - Sync with source
 > - Fix miui camera crash (Ihsan)
 
